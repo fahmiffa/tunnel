@@ -1,0 +1,11 @@
+# Config Tunnel Remote
+
+CLient Windows 
+https://developers.cloudflare.com/warp-client/get-started/windows/
+https://downloads.cloudflareclient.com/v1/download/windows/ga
+
+# URL 
+- domain host url
+
+# Remote SQL 
+- ssh -o ServerAliveInterval=60 -L 3307:127.0.0.1:3306 re.qrana.biz.id
